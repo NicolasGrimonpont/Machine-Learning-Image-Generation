@@ -53,3 +53,7 @@ contributions in the form of pull requests.
 ## License
 
 This repository is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Acknowledgements
+
+This work is made possible by the impressive [recent work](https://nvlabs.github.io/stylegan2/versions.html) of NVidia researchers and other [previous research](https://arxiv.org/abs/2006.06676).
