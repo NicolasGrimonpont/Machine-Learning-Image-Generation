@@ -8,13 +8,9 @@
 
 ## Getting started
 
-* Open Google Colaboratory clicking <a href="https://colab.research.google.com/" target="_blank">this link</a>.
+* Open Google Colaboratory on a new tab: https://colab.research.google.com
 * Click on GitHub
-* Paste the URL of this repository
-
-    https://github.com/NicolasGrimonpont/Machine-Learning-Playground
-
-
+* Paste the URL of this repository: https://github.com/NicolasGrimonpont/Machine-Learning-Playground
 
 ## Pre-trained networks
 
