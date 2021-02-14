@@ -8,7 +8,7 @@
 
 ## Getting started
 
-* Open Google Colaboratory clicking [this link](https://colab.research.google.com/).
+* Open Google Colaboratory clicking <a href="https://colab.research.google.com/" target="_blank">this link</a>.
 * Click on GitHub
 * Paste the URL of this repository
 
