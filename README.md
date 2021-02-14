@@ -4,13 +4,12 @@
 ## Requirements
 
 * Google Drive account
-* Google Colaboratory
 
 ## Getting started
 
-* Open Google Colaboratory on a new tab: https://colab.research.google.com
-* Click on GitHub
-* Paste the URL of this repository: https://github.com/NicolasGrimonpont/Machine-Learning-Playground
+Open this link on a new tab:
+
+    https://github.com/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model.ipynb
 
 ## Pre-trained networks
 
