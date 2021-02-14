@@ -1,5 +1,10 @@
 ## Description
 
+Machine learning training based on generative adversarial networks.
+
+You can see a collection of artworks generated using this process clicking the link  bellow.
+
+https://abstractpainting.org/
 
 ## Requirements
 
