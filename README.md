@@ -14,7 +14,7 @@ You can see a collection of artworks generated using this process clicking the l
 
 Open this link on a new tab, follow the instructions on the screen and enjoy !
 
-* https://colab.research.google.com/github/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model.ipynb
+* https://colab.research.google.com/github/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model-from-scratch.ipynb
 
 ## Pre-trained networks
 
