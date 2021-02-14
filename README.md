@@ -7,7 +7,7 @@
 
 ## Getting started
 
-Open this link on a new tab:
+Open this link on a new tab
 
     https://github.com/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model.ipynb
 
