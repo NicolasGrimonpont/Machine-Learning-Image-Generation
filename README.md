@@ -4,7 +4,7 @@ Machine learning training based on generative adversarial networks.
 
 You can see a collection of artworks generated using this process clicking the link  bellow.
 
-https://abstractpainting.org/
+* https://abstractpainting.org/
 
 ## Requirements
 
@@ -14,7 +14,7 @@ https://abstractpainting.org/
 
 Open this link on a new tab, follow the instructions on the screen and enjoy !
 
-https://colab.research.google.com/github/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model.ipynb
+* https://colab.research.google.com/github/NicolasGrimonpont/Machine-Learning-Playground/blob/main/notebooks/training-model.ipynb
 
 ## Pre-trained networks
 
