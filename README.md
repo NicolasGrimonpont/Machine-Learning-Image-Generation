@@ -3,7 +3,18 @@
 
 ## Requirements
 
-* Linux and Windows are supported, but we recommend Linux for performance and compatibility reasons.
+* Google Drive account
+* Google Colaboratory
+
+## Getting started
+
+* Open Google Colaboratory clicking [this link](https://colab.research.google.com/).
+* Click on GitHub
+* Paste the URL of this repository
+
+    https://github.com/NicolasGrimonpont/Machine-Learning-Playground
+
+
 
 ## Pre-trained networks
 
